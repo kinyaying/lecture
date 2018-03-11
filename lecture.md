@@ -52,5 +52,3 @@ wiki
 webpack
 front
 delpoy(shell)
-
-https://freegoe.waimai.dev.sankuai.com/epassport/callback?cb=http%3A%2F%2Ffreegoe.waimai.dev.sankuai.com%2Fredirect.html&BSID=pjbqutlDRAZL0D4jUXCIK0cPczq-h9zYvb0lNbQ6G1lGWPTZ_dr1jbK42zO_xfmEdTjZ5DM5wkrOlJj0DqrLyQ 的网页可能暂时无法连接，或者它已永久性地移动到了新网址。
