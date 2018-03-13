@@ -64,6 +64,12 @@ delpoy(shell)
 4、路由部分的结构调整
 5、UUID的设计
 
+把一个请求的不同阶段通过中间件的形式结合在一起
+通过每个中间件的next方法指向下一个中间件，视当前逻辑的需要进行处理，可以执行下一个中间件，或者直接返回
+
+中間件 应用场景
+alive return next() await next()
+
 6、遇到的问题
 1、next(); return next(); await next();
 2、静态资源前置
